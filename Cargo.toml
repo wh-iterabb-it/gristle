@@ -1,0 +1,9 @@
+[package]
+name = "gristle"
+version = "0.1.0"
+authors = ["Beau Bouchard <beau.sh>"]
+
+
+[dependencies]
+reqwest = "0.11.22"
+thiserror = "1.0"
